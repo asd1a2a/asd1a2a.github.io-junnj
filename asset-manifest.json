@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/juunj/static/css/main.b1b1156c.css",
-    "main.js": "/juunj/static/js/main.072a8721.js",
+    "main.js": "/juunj/static/js/main.dd3785e2.js",
     "static/js/453.b39d25c2.chunk.js": "/juunj/static/js/453.b39d25c2.chunk.js",
     "static/media/bg_01.jpg": "/juunj/static/media/bg_01.380e64a50061ab3b0f58.jpg",
     "index.html": "/juunj/index.html",
     "main.b1b1156c.css.map": "/juunj/static/css/main.b1b1156c.css.map",
-    "main.072a8721.js.map": "/juunj/static/js/main.072a8721.js.map",
+    "main.dd3785e2.js.map": "/juunj/static/js/main.dd3785e2.js.map",
     "453.b39d25c2.chunk.js.map": "/juunj/static/js/453.b39d25c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b1156c.css",
-    "static/js/main.072a8721.js"
+    "static/js/main.dd3785e2.js"
   ]
 }
