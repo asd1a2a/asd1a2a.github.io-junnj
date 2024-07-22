@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/juunj/static/css/main.b1b1156c.css",
-    "main.js": "/juunj/static/js/main.072a8721.js",
+    "main.css": "/juunj/static/css/main.b88e71ba.css",
+    "main.js": "/juunj/static/js/main.7c183f92.js",
     "static/js/453.b39d25c2.chunk.js": "/juunj/static/js/453.b39d25c2.chunk.js",
     "static/media/bg_01.jpg": "/juunj/static/media/bg_01.380e64a50061ab3b0f58.jpg",
+    "static/media/about.jpg": "/juunj/static/media/about.d729356cfaf3a65a8b6e.jpg",
     "index.html": "/juunj/index.html",
-    "main.b1b1156c.css.map": "/juunj/static/css/main.b1b1156c.css.map",
-    "main.072a8721.js.map": "/juunj/static/js/main.072a8721.js.map",
+    "main.b88e71ba.css.map": "/juunj/static/css/main.b88e71ba.css.map",
+    "main.7c183f92.js.map": "/juunj/static/js/main.7c183f92.js.map",
     "453.b39d25c2.chunk.js.map": "/juunj/static/js/453.b39d25c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1b1156c.css",
-    "static/js/main.072a8721.js"
+    "static/css/main.b88e71ba.css",
+    "static/js/main.7c183f92.js"
   ]
 }
