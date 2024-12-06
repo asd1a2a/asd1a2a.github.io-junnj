@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a57df46ec0cc1bdb9a281f3933cdc411",
+    "revision": "297c6641144d64fcba0c3a3a47c53d2e",
     "url": "/juunj/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/juunj/static/css/2.83d756e6.chunk.css"
   },
   {
-    "revision": "c3bc80f1834da35ab827",
-    "url": "/juunj/static/css/main.98935abe.chunk.css"
+    "revision": "014374bb754ad0a401bf",
+    "url": "/juunj/static/css/main.59856cd9.chunk.css"
   },
   {
     "revision": "5f28103a6f9d846a1da9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/juunj/static/js/3.3b6fb9ae.chunk.js"
   },
   {
-    "revision": "c3bc80f1834da35ab827",
-    "url": "/juunj/static/js/main.71d0481e.chunk.js"
+    "revision": "014374bb754ad0a401bf",
+    "url": "/juunj/static/js/main.3b5e4af0.chunk.js"
   },
   {
     "revision": "86b56a16c77d448d2c74",
