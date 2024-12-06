@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/juunj/static/css/main.b88e71ba.css",
-    "main.js": "/juunj/static/js/main.7c183f92.js",
-    "static/js/453.b39d25c2.chunk.js": "/juunj/static/js/453.b39d25c2.chunk.js",
-    "static/media/bg_01.jpg": "/juunj/static/media/bg_01.380e64a50061ab3b0f58.jpg",
-    "static/media/about.jpg": "/juunj/static/media/about.d729356cfaf3a65a8b6e.jpg",
-    "index.html": "/juunj/index.html",
-    "main.b88e71ba.css.map": "/juunj/static/css/main.b88e71ba.css.map",
-    "main.7c183f92.js.map": "/juunj/static/js/main.7c183f92.js.map",
-    "453.b39d25c2.chunk.js.map": "/juunj/static/js/453.b39d25c2.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b88e71ba.css",
-    "static/js/main.7c183f92.js"
-  ]
+    "main.css": "/static/css/main.98935abe.chunk.css",
+    "main.js": "/static/js/main.feeb062d.chunk.js",
+    "main.js.map": "/static/js/main.feeb062d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.360358fb.js",
+    "runtime~main.js.map": "/static/js/runtime~main.360358fb.js.map",
+    "static/css/2.83d756e6.chunk.css": "/static/css/2.83d756e6.chunk.css",
+    "static/js/2.2e19a40d.chunk.js": "/static/js/2.2e19a40d.chunk.js",
+    "static/js/2.2e19a40d.chunk.js.map": "/static/js/2.2e19a40d.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/static/js/3.3b6fb9ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f5faa0994868c8ee248f85c3d78a48b5.js": "/precache-manifest.f5faa0994868c8ee248f85c3d78a48b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.83d756e6.chunk.css.map": "/static/css/2.83d756e6.chunk.css.map",
+    "static/css/main.98935abe.chunk.css.map": "/static/css/main.98935abe.chunk.css.map"
+  }
 }
